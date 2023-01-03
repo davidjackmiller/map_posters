@@ -2,6 +2,12 @@
 
 If you've ever seen all over Etsy and other websites, you can buy custom posters that highlight a map of a certain location. After seeing the sometimes outrageous prices of these incredibly simple posters, I created my own script to automate creating these. I got these printed at a nearby print shop to create some cheap easy decor for my home that feels personalized and meaningful. See some examples below!
 
+<kbd><img src="https://github.com/davidjackmiller/map_posters/blob/main/example1.png?raw=true" alt="NYC Poster Example" width="100"/></kbd>
+<kbd><img src="https://github.com/davidjackmiller/map_posters/blob/main/example2.png?raw=true" alt="Tel Aviv Poster Example" width="100"/></kbd>
+<kbd><img src="https://github.com/davidjackmiller/map_posters/blob/main/example3.png?raw=true" alt="San Francisco Poster Example" width="100"/></kbd>
+<kbd><img src="https://github.com/davidjackmiller/map_posters/blob/main/example4.png?raw=true" alt="Washington DC Poster Example" width="100"/></kbd>
+<kbd><img src="https://github.com/davidjackmiller/map_posters/blob/main/example5.png?raw=true" alt="Boston Poster Example" width="100"/></kbd>
+
 ## Usage
 
 1. Modify the `cities.json` to include the coordinates and info for the locations you want to create posters of. Make sure you keep it colocated with the script.
